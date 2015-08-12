@@ -1,0 +1,31 @@
+{
+  "name": "rossbennett",
+  "version": "0.1.0",
+  "description": "rossbennett",
+  "author": "RossBennett",
+  "private": true,
+  "dependencies": {
+    "del": "^1.2.0",
+    "gulp": "^3.8.8",
+    "gulp-autoprefixer": "1.0.0",
+    "gulp-bower": "0.0.10",
+    "gulp-cache": "^0.2.8",
+    "gulp-concat": "^2.5.2",
+    "gulp-inject": "^1.3.1",
+    "gulp-jshint": "^1.10.0",
+    "gulp-load-plugins": "^0.10.0",
+    "gulp-minify-css": "^1.1.0",
+    "gulp-plumber": "^1.0.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^1.3.3",
+    "gulp-svgfallback": "^3.0.2",
+    "gulp-svgmin": "^1.1.2",
+    "gulp-svgstore": "^5.0.2",
+    "gulp-uglify": "^1.2.0",
+    "gulp-util": "^3.0.6",
+    "run-sequence": "^1.1.0"
+  },
+  "devDependencies": {
+    "gulp-size": "^1.2.3"
+  }
+}
